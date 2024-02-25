@@ -1,0 +1,14 @@
+.green{
+    background-color: green;
+    color: white;
+}
+.red{
+    background-color: rgb(255, 4, 4);
+}
+.yellow{
+    background-color: rgb(251, 255, 4);
+}
+.text_dark{
+    color: black;
+    font-size: 20px;
+}
